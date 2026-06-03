@@ -2,7 +2,7 @@
 {
   "users": {
     "A4BDEC4F9CAD0A537F5AC9BF5EC60554F0CF91DF5A82CEF0BB660A54948859EF": {
-      "status": "revoked",
+      "status": "active",
       "user": "SRJ",
       "expiry": "2026-12-31T23:59:59Z"
     }
