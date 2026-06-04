@@ -14,6 +14,11 @@
       "status": "active",
       "user": "Coolface",
       "expiry": "2026-12-31T23:59:59Z"
+    },
+    "6DFE3B1802AD058888B81F2B2B81AAA7382EF87C8E9C1E4E3E356BB4F0EF9C92": {
+      "status": "active",
+      "user": "Strange",
+      "expiry": "2026-07-10T23:59:59Z"
     }
   }
 }
