@@ -1,29 +1,51 @@
 {
+  "_comment": "Upload this file to https://github.com/SRJ2020/eve-license as license.json",
+  "_schema": "v2 — per-bot status/expiry under users.<device_id>.bots",
   "users": {
     "0FD5C1667BF81CDCC10A76AC7AB9FD0B3CCC33F72375B1D5E7FF205C755C8960": {
-      "status": "active",
       "user": "SRJ",
-      "expiry": "2026-12-31T23:59:59Z"
+      "bots": {
+        "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" }
+      }
     },
     "DD2A56A9BC3D71B63B53D16651576106A03633BA744B9286055967DAF8B25494": {
-      "status": "active",
       "user": "RB",
-      "expiry": "2026-12-31T23:59:59Z"
+      "bots": {
+        "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" }
+      }
     },
     "901B722A74A1B9914308E5E624F4F81BB0F8D022AE97FAE0C8A3AC987E0D1E3F": {
-      "status": "active",
       "user": "Coolface",
-      "expiry": "2026-12-31T23:59:59Z"
+      "bots": {
+        "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" }
+      }
     },
     "6DFE3B1802AD058888B81F2B2B81AAA7382EF87C8E9C1E4E3E356BB4F0EF9C92": {
-      "status": "active",
       "user": "Strange",
-      "expiry": "2026-07-10T23:59:59Z"
+      "bots": {
+        "camp": { "status": "active", "expiry": "2026-07-10T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-07-10T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-07-10T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-07-10T23:59:59Z" }
+      }
     },
     "4D19BF6A2CD81D15C70572875316B26500754F17F0551F7D01DAAAD781B332B7": {
-      "status": "active",
       "user": "Coolface Main",
-      "expiry": "2026-12-10T23:59:59Z"
+      "bots": {
+        "camp": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-12-10T23:59:59Z" }
+      }
     }
   }
 }
