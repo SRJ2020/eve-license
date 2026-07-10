@@ -2,7 +2,7 @@
   "_comment": "Upload this file to https://github.com/SRJ2020/eve-license as license.json",
   "_schema": "v2 — per-bot status/expiry under users.<device_id>.bots",
   "users": {
-    "7EF4EE4BA0693CB9658A82BF9B217190AAD835393291A356D3EA8B548CAD453B": {
+    "2D842304162767848D44614EFA0A8047BCF8821FBE49F84A285C08995D0A7C16": {
       "user": "SRJ",
       "bots": {
         "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
