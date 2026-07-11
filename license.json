@@ -32,10 +32,10 @@
     "6DFE3B1802AD058888B81F2B2B81AAA7382EF87C8E9C1E4E3E356BB4F0EF9C92": {
       "user": "Strange",
       "bots": {
-        "camp": { "status": "active", "expiry": "2026-07-10T23:59:59Z" },
-        "dead": { "status": "active", "expiry": "2026-07-10T23:59:59Z" },
-        "rss": { "status": "active", "expiry": "2026-07-10T23:59:59Z" },
-        "adventure": { "status": "active", "expiry": "2026-07-10T23:59:59Z" }
+        "camp": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-08-10T23:59:59Z" }
       }
     },
     "4D19BF6A2CD81D15C70572875316B26500754F17F0551F7D01DAAAD781B332B7": {
