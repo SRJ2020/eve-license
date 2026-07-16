@@ -14,10 +14,10 @@
     "D26949EC9C492E01D7B6A713D4F7E0BA075DE795754227B6A800BC880BA71E35": {
       "user": "Professor",
       "bots": {
-        "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
-        "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
-        "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
-        "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" }
+        "camp": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" }
       }
     },
     "901B722A74A1B9914308E5E624F4F81BB0F8D022AE97FAE0C8A3AC987E0D1E3F": {
@@ -41,10 +41,10 @@
     "04F46FF8C0A73835668A40955E77E211EEB269C8AB031452ABB67B75EC10EF09": {
       "user": "Yaya",
       "bots": {
-        "camp": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },
-        "dead": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },
-        "rss": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },
-        "adventure": { "status": "active", "expiry": "2026-08-10T23:59:59Z" }
+        "camp": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+        "dead": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+        "rss": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+        "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" }
       }
     },
     "4D19BF6A2CD81D15C70572875316B26500754F17F0551F7D01DAAAD781B332B7": {
