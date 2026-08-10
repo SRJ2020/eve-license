@@ -57,13 +57,13 @@
           "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
-      "4D19BF6A2CD81D15C70572875316B26500754F17F0551F7D01DAAAD781B332B7": {                                                                                                  
-        "user": "Coolface Main",                                                                                                                                             
+      "91A8AB5EE7BE8978C7EFDD6712A50C41C0D2D9FF3780A40C66D1E075EB250236": {                                                                                                  
+        "user": "Oops",                                                                                                                                             
         "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-12-10T23:59:59Z" },                                                                                             
+          "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
+          "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
+          "rss": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                   
+          "adventure": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                             
           "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },                                                                                             
           "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
