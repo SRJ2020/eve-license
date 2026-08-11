@@ -38,12 +38,12 @@
       "6DFE3B1802AD058888B81F2B2B81AAA7382EF87C8E9C1E4E3E356BB4F0EF9C92": {                                                                                                  
         "user": "Strange",                                                                                                                                                   
         "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-08-10T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
+          "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
+          "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
+          "rss": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                   
+          "adventure": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                             
+          "utilities": { "status": "active", "expiry": "2026-09-12T23:59:59Z" },                                                                                             
+          "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
       "04F46FF8C0A73835668A40955E77E211EEB269C8AB031452ABB67B75EC10EF09": {                                                                                                  
