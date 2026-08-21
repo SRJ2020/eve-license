@@ -9,8 +9,8 @@
           "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
           "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                   
           "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },                                                                                             
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
       "D26949EC9C492E01D7B6A713D4F7E0BA075DE795754227B6A800BC880BA71E35": {                                                                                                  
