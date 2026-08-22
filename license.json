@@ -35,6 +35,17 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
+      "C61A8DD8430A2BB4F74161A844B61572DFE370534377FBBF045557CA9323354F": {                                                                                                  
+        "user": "Ice",                                                                                                                                                  
+        "bots": {                                                                                                                                                            
+          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
+          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
+          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                   
+          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                             
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },                                                                                             
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
+        }                                                                                                                                                                    
+      },                                                                                                                                                                     
       "6DFE3B1802AD058888B81F2B2B81AAA7382EF87C8E9C1E4E3E356BB4F0EF9C92": {                                                                                                  
         "user": "Strange",                                                                                                                                                   
         "bots": {                                                                                                                                                            
