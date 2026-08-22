@@ -57,15 +57,15 @@
           "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
-      "91A8AB5EE7BE8978C7EFDD6712A50C41C0D2D9FF3780A40C66D1E075EB250236": {                                                                                                  
-        "user": "Oops",                                                                                                                                             
+      "54406CA23AEED4599F6CC8241E89F54454432FE72BA8E19BBA6B18BF96D4810C": {                                                                                                  
+        "user": "Sonu",                                                                                                                                             
         "bots": {                                                                                                                                                            
           "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
           "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
           "rss": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                   
           "adventure": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
+          "utilities": { "status": "active", "expiry": "2026-09-12T23:59:59Z" },                                                                                             
+          "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       }                                                                                                                                                                      
     }                                                                                                                                                                        
