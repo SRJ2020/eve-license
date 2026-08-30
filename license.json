@@ -79,8 +79,8 @@
           "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
-      "54406CA23AEED4599F6CC8241E89F54454432FE72BA8E19BBA6B18BF96D4810C": {                                                                                                  
-        "user": "Sonu",                                                                                                                                             
+      "0": {                                                                                                  
+        "user": "demo",                                                                                                                                             
         "bots": {                                                                                                                                                            
           "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
           "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
