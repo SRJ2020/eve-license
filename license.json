@@ -60,8 +60,8 @@
       "6B9B7FBEC82BE1ABA46CD1A7AA1564DCA5CA84772F340E1968ABEDA3913D731A": {                                                                                                  
         "user": "Strange",                                                                                                                                                   
         "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
+          "camp": { "status": "active", "expiry": "2026-09-20T23:59:59Z" },                                                                                                  
+          "dead": { "status": "active", "expiry": "2026-09-20T23:59:59Z" },                                                                                                  
           "rss": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                   
           "adventure": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                             
           "utilities": { "status": "active", "expiry": "2026-09-12T23:59:59Z" },                                                                                             
