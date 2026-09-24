@@ -14,7 +14,7 @@
         }                                                                                                                                                                    
       },                                                                                                                                                                     
       "2CF6445ABD7579AE9EBD5F68C1CCF710AA077FD533B7F0BCA91D1E7700E6525D": {                                                                                                  
-        "user": "Professor",                                                                                                                                                 
+        "user": "Strange",                                                                                                                                                 
         "bots": {                                                                                                                                                            
           "camp": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },                                                                                                  
           "dead": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },                                                                                                  
@@ -46,8 +46,8 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
         }                                                                                                                                                                    
       },                                                                                                                                                                     
-      "DD2A56A9BC3D71B63B53D16651576106A03633BA744B9286055967DAF8B25494": {                                                                                                  
-        "user": "Ice_2",                                                                                                                                                  
+      "1AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {                                                                                                  
+        "user": "Professor",                                                                                                                                                  
         "bots": {                                                                                                                                                            
           "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
           "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
