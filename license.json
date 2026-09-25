@@ -1,94 +1,102 @@
- {                                                                                                                                                                          
-    "_comment": "Upload this file to https://github.com/SRJ2020/eve-license as license.json",                                                                                
-    "_schema": "v2 per-bot status/expiry under users.<device_id>.bots",                                                                                                      
-    "users": {                                                                                                                                                               
-      "E5845EBBCFC4B1BC2A45A8AB7D66E8EE6BA0DFA89A17091F13B1F7B30DF51005": {                                                                                                  
-        "user": "SRJ",                                                                                                                                                       
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "2CF6445ABD7579AE9EBD5F68C1CCF710AA077FD533B7F0BCA91D1E7700E6525D": {                                                                                                  
-        "user": "Strange",                                                                                                                                                 
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "2132E775C4A26C4CBCF9158E699AF1601C2225F15B76A69C1FAA6229737157EC": {                                                                                                  
-        "user": "Coolface",                                                                                                                                                  
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "C61A8DD8430A2BB4F74161A844B61572DFE370534377FBBF045557CA9323354F": {                                                                                                  
-        "user": "Ice",                                                                                                                                                  
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "1AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {                                                                                                  
-        "user": "Professor",                                                                                                                                                  
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "6B9B7FBEC82BE1ABA46CD1A7AA1564DCA5CA84772F340E1968ABEDA3913D731A": {                                                                                                  
-        "user": "Strange",                                                                                                                                                   
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "": {                                                                                                  
-        "user": "Yaya",                                                                                                                                                      
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-07-26T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-08-26T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-08-26T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      },                                                                                                                                                                     
-      "0": {                                                                                                  
-        "user": "demo",                                                                                                                                             
-        "bots": {                                                                                                                                                            
-          "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
-          "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                  
-          "rss": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                                   
-          "adventure": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },                                                                                             
-          "utilities": { "status": "active", "expiry": "2026-09-12T23:59:59Z" },                                                                                             
-          "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }                                                                                                    
-        }                                                                                                                                                                    
-      }                                                                                                                                                                      
-    }                                                                                                                                                                        
+{
+    "_comment": "Upload this file to https://github.com/SRJ2020/eve-license as license.json",
+    "_schema": "v2 per-bot status/expiry under users.<device_id>.bots",
+    "users": {
+      "E5845EBBCFC4B1BC2A45A8AB7D66E8EE6BA0DFA89A17091F13B1F7B30DF51005": {
+        "user": "SRJ",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
+          "food_hunt": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
+        }
+      },
+      "2CF6445ABD7579AE9EBD5F68C1CCF710AA077FD533B7F0BCA91D1E7700E6525D": {
+        "user": "Strange",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-08-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }
+        }
+      },
+      "2132E775C4A26C4CBCF9158E699AF1601C2225F15B76A69C1FAA6229737157EC": {
+        "user": "Coolface",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-12-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
+        }
+      },
+      "C61A8DD8430A2BB4F74161A844B61572DFE370534377FBBF045557CA9323354F": {
+        "user": "Ice",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-12-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
+        }
+      },
+      "1AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {
+        "user": "Professor",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-12-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
+        }
+      },
+      "6B9B7FBEC82BE1ABA46CD1A7AA1564DCA5CA84772F340E1968ABEDA3913D731A": {
+        "user": "Strange",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-09-30T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-09-30T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }
+        }
+      },
+      "": {
+        "user": "Yaya",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-07-26T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-08-26T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-08-26T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-08-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }
+        }
+      },
+      "0": {
+        "user": "demo",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-09-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-09-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }
+        }
+      }
+    }
   }
