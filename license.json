@@ -50,7 +50,7 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
-      "1AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {
+      "AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {
         "user": "Professor",
         "bots": {
           "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
