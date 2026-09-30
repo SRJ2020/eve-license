@@ -38,6 +38,18 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
+        "58D6AA5A573124A0B3D7C3670FAF1F4552DED20E8A8C8CF8B6C3A67834222C73": {
+        "user": "Coolface Main",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2026-12-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
+        }
+      },
       "C61A8DD8430A2BB4F74161A844B61572DFE370534377FBBF045557CA9323354F": {
         "user": "Ice",
         "bots": {
@@ -50,6 +62,7 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
+        
       "AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {
         "user": "Professor",
         "bots": {
@@ -62,6 +75,7 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
+        
       "6B9B7FBEC82BE1ABA46CD1A7AA1564DCA5CA84772F340E1968ABEDA3913D731A": {
         "user": "Strange",
         "bots": {
