@@ -83,7 +83,7 @@
           "dead": { "status": "active", "expiry": "2026-10-30T23:59:59Z" },
           "rss": { "status": "active", "expiry": "2026-10-30T23:59:59Z" },
           "adventure": { "status": "active", "expiry": "2026-10-30T23:59:59Z" },
-          "utilities": { "status": "active", "expiry": "2026-010-30T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2026-10-30T23:59:59Z" },
           "food_hunt": { "status": "disabled", "expiry": "2026-10-30T23:59:59Z" },
           "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }
         }
