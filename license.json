@@ -34,7 +34,7 @@
           "rss": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
           "adventure": { "status": "active", "expiry": "2026-12-31T23:59:59Z" },
           "utilities": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
-          "food_hunt": { "status": "disabled", "expiry": "2026-12-12T23:59:59Z" },
+          "food_hunt": { "status": "active", "expiry": "2026-12-12T23:59:59Z" },
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
