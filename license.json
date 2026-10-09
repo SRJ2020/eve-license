@@ -88,15 +88,15 @@
           "war": { "status": "active", "expiry": "2026-09-12T23:59:59Z" }
         }
       },
-      "": {
-        "user": "Yaya",
+      "A9A8740B8D60C09F29FDD253DB289EBDD9E0DF60C132DCEF2078400CE7475EB0": {
+        "user": "CoolTom",
         "bots": {
-          "camp": { "status": "active", "expiry": "2026-07-26T23:59:59Z" },
-          "dead": { "status": "active", "expiry": "2026-08-26T23:59:59Z" },
-          "rss": { "status": "active", "expiry": "2026-08-26T23:59:59Z" },
-          "adventure": { "status": "active", "expiry": "2026-07-19T23:59:59Z" },
-          "utilities": { "status": "active", "expiry": "2026-08-12T23:59:59Z" },
-          "food_hunt": { "status": "disabled", "expiry": "2026-08-12T23:59:59Z" },
+          "camp": { "status": "active", "expiry": "2027-07-26T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2027-08-26T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2027-08-26T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2027-07-19T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2027-08-12T23:59:59Z" },
+          "food_hunt": { "status": "disabled", "expiry": "2027-08-12T23:59:59Z" },
           "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }
         }
       },
