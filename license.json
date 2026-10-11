@@ -100,6 +100,18 @@
           "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }
         }
       },
+      "E1488E32540A6A2340DE62F430D5E1AD93A3206E2AC6FADDCEAC6FDB631B2862": {
+        "user": "Nidhin Oops",
+        "bots": {
+          "camp": { "status": "active", "expiry": "2027-07-26T23:59:59Z" },
+          "dead": { "status": "active", "expiry": "2027-08-26T23:59:59Z" },
+          "rss": { "status": "active", "expiry": "2027-08-26T23:59:59Z" },
+          "adventure": { "status": "active", "expiry": "2027-07-19T23:59:59Z" },
+          "utilities": { "status": "active", "expiry": "2027-08-12T23:59:59Z" },
+          "food_hunt": { "status": "active", "expiry": "2027-08-12T23:59:59Z" },
+          "war": { "status": "active", "expiry": "2026-08-12T23:59:59Z" }
+        }
+      },
       "0": {
         "user": "demo",
         "bots": {
