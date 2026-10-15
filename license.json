@@ -14,7 +14,7 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
-      "0": {
+      "54541": {
         "user": "Strange",
         "bots": {
           "camp": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },
@@ -76,7 +76,7 @@
         }
       },
         
-      "demo": {
+      "78887": {
         "user": "Strange",
         "bots": {
           "camp": { "status": "active", "expiry": "2026-10-30T23:59:59Z" },
@@ -113,7 +113,7 @@
         }
       },
       "0": {
-        "user": "demo",
+        "user": "demo2",
         "bots": {
           "camp": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },
           "dead": { "status": "active", "expiry": "2026-09-10T23:59:59Z" },
