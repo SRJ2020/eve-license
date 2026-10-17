@@ -14,7 +14,7 @@
           "war": { "status": "active", "expiry": "2026-12-12T23:59:59Z" }
         }
       },
-      "54541": {
+      "6B9B7FBEC82BE1ABA46CD1A7AA1564DCA5CA84772F340E1968ABEDA3913D731A": {
         "user": "Strange",
         "bots": {
           "camp": { "status": "active", "expiry": "2026-12-19T23:59:59Z" },
@@ -63,7 +63,7 @@
         }
       },
         
-      "1AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {
+      "AB07FAB48F3BE57EFE5DA0DA444ED190223F901FF87D62FEE2C35AB8D605C63": {
         "user": "Professor",
         "bots": {
           "camp": { "status": "disabled", "expiry": "2026-11-11T23:59:59Z" },
